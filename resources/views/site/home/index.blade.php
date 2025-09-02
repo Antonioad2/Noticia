@@ -1717,8 +1717,217 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="blog-category.html">Notícias</a>
+                                        
+                                        <a href="#">Notícias<span data-uc-navbar-parent-icon></span></a>
+                                       <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
+                                           <div class="row col-match g-2">
+                                               <div class="w-1/5">
+                                                    <div class="uc-navbar-switcher-nav border-end">
+                                                        <ul class="uc-tab-left fs-6 text-end" data-uc-tab="connect: #uc-navbar-switcher-tending; animation: uc-animation-slide-right-small, uc-animation-slide-left-small">
+                                                            <li><a href="#">Editorial da Semana</a></li>
+                                                            <li><a href="#">Análise & Opinião</a></li>
+                                                            <li><a href="#">Entrevista da Semana</a></li>
+                                                            <li><a href="#">Fac-Chcking</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div> 
+                                                <div class="w-4/5">
+                                                    <div id="uc-navbar-switcher-tending" class="uc-navbar-switcher uc-switcher">
+                                                        <div class="row child-cols col-match g-2">
+                                                            <div>
+                                                                <article class="post type-post panel uc-transition-toggle vstack gap-1">
+                                                                    <div class="post-media panel overflow-hidden">
+                                                                        <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-19.jpg')}}" alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles" data-uc-img="loading: lazy">
+                                                                        </div>
+                                                                        <a href="blog-details.html" class="position-cover"></a>
+                                                                    </div>
+                                                                    <div class="post-header panel vstack gap-narrow">
+                                                                        <h3 class="post-title h6 m-0 text-truncate-2">
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                        </h3>
+                                                                        <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
+                                                                            <div>
+                                                                                <div class="post-date hstack gap-narrow">
+                                                                                    <span>2mo</span>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div>·</div>
+                                                                            <div>
+                                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                                    <i class="icon-narrow unicon-chat"></i>
+                                                                                    <span>1</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </article>
+                                                            </div>
+                                                            <div>
+                                                                <article class="post type-post panel uc-transition-toggle vstack gap-1">
+                                                                    <div class="post-media panel overflow-hidden">
+                                                                        <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
+                                                                        </div>
+                                                                        <a href="blog-details.html" class="position-cover"></a>
+                                                                    </div>
+                                                                    <div class="post-header panel vstack gap-narrow">
+                                                                        <h3 class="post-title h6 m-0 text-truncate-2">
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Smart Homes, Smarter Living: Exploring IoT and AI</a>
+                                                                        </h3>
+                                                                        <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
+                                                                            <div>
+                                                                                <div class="post-date hstack gap-narrow">
+                                                                                    <span>23d</span>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div>·</div>
+                                                                            <div>
+                                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                                    <i class="icon-narrow unicon-chat"></i>
+                                                                                    <span>15</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </article>
+                                                            </div>
+                                                            <div>
+                                                                <article class="post type-post panel uc-transition-toggle vstack gap-1">
+                                                                    <div class="post-media panel overflow-hidden">
+                                                                        <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-21.jpg')}}" alt="How Businesses Are Adapting to E-Commerce and AI Integration" data-uc-img="loading: lazy">
+                                                                        </div>
+                                                                        <a href="blog-details.html" class="position-cover"></a>
+                                                                    </div>
+                                                                    <div class="post-header panel vstack gap-narrow">
+                                                                        <h3 class="post-title h6 m-0 text-truncate-2">
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">How Businesses Are Adapting to E-Commerce and AI Integration</a>
+                                                                        </h3>
+                                                                        <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
+                                                                            <div>
+                                                                                <div class="post-date hstack gap-narrow">
+                                                                                    <span>29d</span>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div>·</div>
+                                                                            <div>
+                                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                                    <i class="icon-narrow unicon-chat"></i>
+                                                                                    <span>20</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </article>
+                                                            </div>
+                                                            <div>
+                                                                <article class="post type-post panel uc-transition-toggle vstack gap-1">
+                                                                    <div class="post-media panel overflow-hidden">
+                                                                        <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-22.jpg')}}" alt="Technology: Wearables, AR, and AI in the Apparel Industry" data-uc-img="loading: lazy">
+                                                                        </div>
+                                                                        <a href="blog-details.html" class="position-cover"></a>
+                                                                    </div>
+                                                                    <div class="post-header panel vstack gap-narrow">
+                                                                        <h3 class="post-title h6 m-0 text-truncate-2">
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Technology: Wearables, AR, and AI in the Apparel Industry</a>
+                                                                        </h3>
+                                                                        <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
+                                                                            <div>
+                                                                                <div class="post-date hstack gap-narrow">
+                                                                                    <span>2mo</span>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div>·</div>
+                                                                            <div>
+                                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                                    <i class="icon-narrow unicon-chat"></i>
+                                                                                    <span>5</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </article>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row child-cols g-2">
+                                                            <div>
+                                                                <article class="post type-post panel uc-transition-toggle vstack gap-1">
+                                                                    <div class="post-media panel overflow-hidden">
+                                                                        <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-04.jpg')}}" alt="The Importance of Sleep: Tips for Better Rest and Recovery" data-uc-img="loading: lazy">
+                                                                        </div>
+                                                                        <a href="blog-details.html" class="position-cover"></a>
+                                                                    </div>
+                                                                    <div class="post-header panel vstack gap-narrow">
+                                                                        <h3 class="post-title h6 m-0 text-truncate-2">
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Importance of Sleep: Tips for Better Rest and Recovery</a>
+                                                                        </h3>
+                                                                        <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
+                                                                            <div>
+                                                                                <div class="post-date hstack gap-narrow">
+                                                                                    <span>2h</span>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div>·</div>
+                                                                            <div>
+                                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                                    <i class="icon-narrow unicon-chat"></i>
+                                                                                    <span>0</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </article>
+                                                            </div>
+                                                            <div>
+                                                                <article class="post type-post panel uc-transition-toggle vstack gap-1">
+                                                                    <div class="post-media panel overflow-hidden">
+                                                                        <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-05.jpg')}}" alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles" data-uc-img="loading: lazy">
+                                                                        </div>
+                                                                        <a href="blog-details.html" class="position-cover"></a>
+                                                                    </div>
+                                                                    <div class="post-header panel vstack gap-narrow">
+                                                                        <h3 class="post-title h6 m-0 text-truncate-2">
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                        </h3>
+                                                                        <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
+                                                                            <div>
+                                                                                <div class="post-date hstack gap-narrow">
+                                                                                    <span>12h</span>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div>·</div>
+                                                                            <div>
+                                                                                <a href="#post_comment" class="post-comments text-none hstack gap-narrow">
+                                                                                    <i class="icon-narrow unicon-chat"></i>
+                                                                                    <span>1</span>
+                                                                                </a>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </article>
+                                                            </div>
+                                                            <div>
+                                                                <article class="post type-post panel uc-transition-toggle vstack gap-1">
+                                                                    <div class="post-media panel overflow-hidden">
+                                                                        <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-10.jpg')}}" alt="Eco-Tourism: Traveling Responsibly and Sustainably" data-uc-img="loading: lazy">
+                                                                        </div>
+                                                                        <a href="blog-details.html" class="position-cover"></a>
+                                                                  
+                                                            
+                                                                 
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </li>
+                                    
                                     <li>
                                         <a href="blog-category.html">A voz do cidadão</a>
                                     </li>
@@ -3601,7 +3810,7 @@
                                                             <div class="post-media panel overflow-hidden position-cover">
                                                                 <div class="featured-video bg-gray-700 ratio ratio-3x2">
                                                                     <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-01.mp4')}}" type="video/webm">
+                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-01.webm')}}" type="video/webm">
                                                                         Your browser does not support the video tag.
                                                                     </video>
                                                                 </div>
@@ -3647,7 +3856,7 @@
                                                             <div class="post-media panel overflow-hidden position-cover">
                                                                 <div class="featured-video bg-gray-700 ratio ratio-3x2">
                                                                     <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-03.mp4')}}" type="video/webm">
+                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-03.webm')}}" type="video/webm">
                                                                         Your browser does not support the video tag.
                                                                     </video>
                                                                 </div>
@@ -3693,7 +3902,7 @@
                                                             <div class="post-media panel overflow-hidden position-cover">
                                                                 <div class="featured-video bg-gray-700 ratio ratio-3x2">
                                                                     <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-04.mp4')}}" type="video/webm">
+                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-04.webm')}}" type="video/webm">
                                                                         Your browser does not support the video tag.
                                                                     </video>
                                                                 </div>
@@ -3739,7 +3948,7 @@
                                                             <div class="post-media panel overflow-hidden position-cover">
                                                                 <div class="featured-video bg-gray-700 ratio ratio-3x2">
                                                                     <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-05.mp4')}}" type="video/webm">
+                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-05.webm')}}" type="video/webm">
                                                                         Your browser does not support the video tag.
                                                                     </video>
                                                                 </div>
@@ -3816,7 +4025,7 @@
                                                                     <div class="post-media panel overflow-hidden w-40px lg:w-64px rounded">
                                                                         <div class="featured-video bg-gray-700 ratio ratio-3x4">
                                                                             <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-01.mp4')}}" type="video/webm">
+                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-01.webm')}}" type="video/webm">
                                                                                 Your browser does not support the video tag.
                                                                             </video>
                                                                         </div>
@@ -3842,7 +4051,7 @@
                                                                     <div class="post-media panel overflow-hidden w-40px lg:w-64px rounded">
                                                                         <div class="featured-video bg-gray-700 ratio ratio-3x4">
                                                                             <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-03.mp4')}}" type="video/webm">
+                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-03.webm')}}" type="video/webm">
                                                                                 Your browser does not support the video tag.
                                                                             </video>
                                                                         </div>
@@ -3868,7 +4077,7 @@
                                                                     <div class="post-media panel overflow-hidden w-40px lg:w-64px rounded">
                                                                         <div class="featured-video bg-gray-700 ratio ratio-3x4">
                                                                             <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-04.mp4')}}" type="video/webm">
+                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-04.webm')}}" type="video/webm">
                                                                                 Your browser does not support the video tag.
                                                                             </video>
                                                                         </div>
@@ -3894,7 +4103,7 @@
                                                                     <div class="post-media panel overflow-hidden w-40px lg:w-64px rounded">
                                                                         <div class="featured-video bg-gray-700 ratio ratio-3x4">
                                                                             <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-05.mp4')}}" type="video/webm">
+                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-05.webm')}}" type="video/webm">
                                                                                 Your browser does not support the video tag.
                                                                             </video>
                                                                         </div>
