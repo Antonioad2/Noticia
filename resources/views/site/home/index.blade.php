@@ -497,10 +497,10 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="#">Latest <span data-uc-navbar-parent-icon></span></a>
-                                        <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
-                                            <div class="row col-match g-2">
-                                                <div class="w-1/5">
+                                        <a href="#">INICIO<span data-uc-navbar-parent-icon></span></a>
+                                       <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
+                                           <div class="row col-match g-2">
+                                               {{--  <div class="w-1/5">
                                                     <div class="uc-navbar-switcher-nav border-end">
                                                         <ul class="uc-tab-left fs-6 text-end" data-uc-tab="connect: #uc-navbar-switcher-tending; animation: uc-animation-slide-right-small, uc-animation-slide-left-small">
                                                             <li><a href="#">All</a></li>
@@ -510,7 +510,7 @@
                                                             <li><a href="#">Media</a></li>
                                                         </ul>
                                                     </div>
-                                                </div>
+                                                </div> --}}
                                                 <div class="w-4/5">
                                                     <div id="uc-navbar-switcher-tending" class="uc-navbar-switcher uc-switcher">
                                                         <div class="row child-cols col-match g-2">
@@ -547,7 +547,7 @@
                                                                 <article class="post type-post panel uc-transition-toggle vstack gap-1">
                                                                     <div class="post-media panel overflow-hidden">
                                                                         <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-20.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
                                                                         </div>
                                                                         <a href="blog-details.html" class="position-cover"></a>
                                                                     </div>
@@ -1019,7 +1019,7 @@
                                                                 <article class="post type-post panel uc-transition-toggle vstack gap-1">
                                                                     <div class="post-media panel overflow-hidden">
                                                                         <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-11.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-2.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
                                                                         </div>
                                                                         <a href="blog-details.html" class="position-cover"></a>
                                                                     </div>
@@ -1048,7 +1048,7 @@
                                                                 <article class="post type-post panel uc-transition-toggle vstack gap-1">
                                                                     <div class="post-media panel overflow-hidden">
                                                                         <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-15.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-3.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
                                                                         </div>
                                                                         <a href="blog-details.html" class="position-cover"></a>
                                                                     </div>
@@ -1077,7 +1077,7 @@
                                                                 <article class="post type-post panel uc-transition-toggle vstack gap-1">
                                                                     <div class="post-media panel overflow-hidden">
                                                                         <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-18.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
                                                                         </div>
                                                                         <a href="blog-details.html" class="position-cover"></a>
                                                                     </div>
@@ -1109,7 +1109,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="#">Politics <span data-uc-navbar-parent-icon></span></a>
+                                        <a href="#">Sobre Nós<span data-uc-navbar-parent-icon></span></a>
                                         <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
                                             <div class="row child-cols col-match g-2">
                                                 <div>
@@ -1261,7 +1261,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="#">Opinions <span data-uc-navbar-parent-icon></span></a>
+                                        <a href="#">Multimédia<span data-uc-navbar-parent-icon></span></a>
                                         <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
                                             <div class="row child-cols col-match g-2">
                                                 <div>
@@ -1413,7 +1413,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="#">World <span data-uc-navbar-parent-icon></span></a>
+                                        <a href="#">Agenda do Governo<span data-uc-navbar-parent-icon></span></a>
                                         <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
                                             <div class="row child-cols col-match g-2">
                                                 <div>
@@ -1565,7 +1565,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="#">Media <span data-uc-navbar-parent-icon></span></a>
+                                        <a href="#">Política e Número<span data-uc-navbar-parent-icon></span></a>
                                         <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
                                             <div class="row child-cols col-match g-2">
                                                 <div>
@@ -1601,7 +1601,7 @@
                                                     <article class="post type-post panel uc-transition-toggle vstack gap-1">
                                                         <div class="post-media panel overflow-hidden">
                                                             <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-11.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-2.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
                                                             </div>
                                                             <a href="blog-details.html" class="position-cover"></a>
                                                         </div>
@@ -1630,7 +1630,7 @@
                                                     <article class="post type-post panel uc-transition-toggle vstack gap-1">
                                                         <div class="post-media panel overflow-hidden">
                                                             <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-15.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-3.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
                                                             </div>
                                                             <a href="blog-details.html" class="position-cover"></a>
                                                         </div>
@@ -1659,7 +1659,7 @@
                                                     <article class="post type-post panel uc-transition-toggle vstack gap-1">
                                                         <div class="post-media panel overflow-hidden">
                                                             <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-18.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
                                                             </div>
                                                             <a href="blog-details.html" class="position-cover"></a>
                                                         </div>
@@ -1688,7 +1688,7 @@
                                                     <article class="post type-post panel uc-transition-toggle vstack gap-1">
                                                         <div class="post-media panel overflow-hidden">
                                                             <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-20.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
                                                             </div>
                                                             <a href="blog-details.html" class="position-cover"></a>
                                                         </div>
@@ -1717,15 +1717,16 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="blog-category.html">Tech</a>
+                                        <a href="blog-category.html">Notícias</a>
                                     </li>
                                     <li>
-                                        <a href="blog-category.html">Business</a>
+                                        <a href="blog-category.html">A voz do cidadão</a>
                                     </li>
                                     <li>
-                                        <a href="blog-category.html">Fashion</a>
+                                        <a href="blog-category.html">Contacto</a>
                                     </li>
-                                    <li>
+                                    
+                                    {{-- <li>
                                         <a href="blog-category.html">Arts & Entertainments</a>
                                     </li>
                                     <li>
@@ -1734,6 +1735,7 @@
                                     <li>
                                         <a href="blog-category.html">E-Books</a>
                                     </li>
+                                    --}}
                                     <li>
                                         <a href="#"><i class="icon-2 fw-medium unicon-overflow-menu-horizontal"></i></a>
                                         <div class="uc-navbar-dropdown ft-primary text-unset p-3 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
@@ -1946,7 +1948,7 @@
                                                             <div class="col-auto">
                                                                 <div class="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-11.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-2.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <a href="blog-details.html" class="position-cover"></a>
                                                                 </div>
@@ -2038,7 +2040,7 @@
                                                             <div class="col-auto">
                                                                 <div class="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-15.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-3.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <a href="blog-details.html" class="position-cover"></a>
                                                                 </div>
@@ -2112,10 +2114,10 @@
                                                                 <div class="post-media panel overflow-hidden h-100">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                         <canvas class="h-100 w-100"></canvas>
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-11.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-2.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-11.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-2.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
                                                                     </div>
                                                                 </div>
                                                                 <div class="position-cover bg-gradient-to-t from-black to-transparent opacity-90"></div>
@@ -2157,10 +2159,10 @@
                                                                 <div class="post-media panel overflow-hidden h-100">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                         <canvas class="h-100 w-100"></canvas>
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-15.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-3.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-15.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-3.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
                                                                     </div>
                                                                 </div>
                                                                 <div class="position-cover bg-gradient-to-t from-black to-transparent opacity-90"></div>
@@ -2202,10 +2204,10 @@
                                                                 <div class="post-media panel overflow-hidden h-100">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                         <canvas class="h-100 w-100"></canvas>
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-18.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-18.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
                                                                     </div>
                                                                 </div>
                                                                 <div class="position-cover bg-gradient-to-t from-black to-transparent opacity-90"></div>
@@ -2247,10 +2249,10 @@
                                                                 <div class="post-media panel overflow-hidden h-100">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                         <canvas class="h-100 w-100"></canvas>
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-20.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-20.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
                                                                     </div>
                                                                 </div>
                                                                 <div class="position-cover bg-gradient-to-t from-black to-transparent opacity-90"></div>
@@ -2521,7 +2523,7 @@
                                                             <div class="col-auto">
                                                                 <div class="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-11.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-2.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <a href="blog-details.html" class="position-cover"></a>
                                                                 </div>
@@ -2545,7 +2547,7 @@
                                                             <div class="col-auto">
                                                                 <div class="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-15.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-3.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <a href="blog-details.html" class="position-cover"></a>
                                                                 </div>
@@ -2569,7 +2571,7 @@
                                                             <div class="col-auto">
                                                                 <div class="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-18.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <a href="blog-details.html" class="position-cover"></a>
                                                                 </div>
@@ -2593,7 +2595,7 @@
                                                             <div class="col-auto">
                                                                 <div class="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-20.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-1.jpg')}}" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <a href="blog-details.html" class="position-cover"></a>
                                                                 </div>
@@ -2692,7 +2694,7 @@
                                                     <article class="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div class="post-media panel overflow-hidden">
                                                             <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-11.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-2.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
                                                             </div>
                                                             <a href="blog-details.html" class="position-cover"></a>
                                                         </div>
@@ -2816,7 +2818,7 @@
                                                     <article class="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div class="post-media panel overflow-hidden">
                                                             <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-15.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-3.jpg')}}" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy">
                                                             </div>
                                                             <a href="blog-details.html" class="position-cover"></a>
                                                         </div>
@@ -3533,7 +3535,7 @@
                                                             <div class="col-auto">
                                                                 <div class="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-11.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
+                                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-2.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
                                                                     </div>
                                                                     <a href="blog-details.html" class="position-cover"></a>
                                                                 </div>
@@ -3599,7 +3601,7 @@
                                                             <div class="post-media panel overflow-hidden position-cover">
                                                                 <div class="featured-video bg-gray-700 ratio ratio-3x2">
                                                                     <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-01.webm')}}" type="video/webm">
+                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-01.mp4')}}" type="video/webm">
                                                                         Your browser does not support the video tag.
                                                                     </video>
                                                                 </div>
@@ -3645,7 +3647,7 @@
                                                             <div class="post-media panel overflow-hidden position-cover">
                                                                 <div class="featured-video bg-gray-700 ratio ratio-3x2">
                                                                     <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-03.webm')}}" type="video/webm">
+                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-03.mp4')}}" type="video/webm">
                                                                         Your browser does not support the video tag.
                                                                     </video>
                                                                 </div>
@@ -3691,7 +3693,7 @@
                                                             <div class="post-media panel overflow-hidden position-cover">
                                                                 <div class="featured-video bg-gray-700 ratio ratio-3x2">
                                                                     <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-04.webm')}}" type="video/webm">
+                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-04.mp4')}}" type="video/webm">
                                                                         Your browser does not support the video tag.
                                                                     </video>
                                                                 </div>
@@ -3737,7 +3739,7 @@
                                                             <div class="post-media panel overflow-hidden position-cover">
                                                                 <div class="featured-video bg-gray-700 ratio ratio-3x2">
                                                                     <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-05.webm')}}" type="video/webm">
+                                                                        <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-05.mp4')}}" type="video/webm">
                                                                         Your browser does not support the video tag.
                                                                     </video>
                                                                 </div>
@@ -3814,7 +3816,7 @@
                                                                     <div class="post-media panel overflow-hidden w-40px lg:w-64px rounded">
                                                                         <div class="featured-video bg-gray-700 ratio ratio-3x4">
                                                                             <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-01.webm')}}" type="video/webm">
+                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-01.mp4')}}" type="video/webm">
                                                                                 Your browser does not support the video tag.
                                                                             </video>
                                                                         </div>
@@ -3840,7 +3842,7 @@
                                                                     <div class="post-media panel overflow-hidden w-40px lg:w-64px rounded">
                                                                         <div class="featured-video bg-gray-700 ratio ratio-3x4">
                                                                             <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-03.webm')}}" type="video/webm">
+                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-03.mp4')}}" type="video/webm">
                                                                                 Your browser does not support the video tag.
                                                                             </video>
                                                                         </div>
@@ -3866,7 +3868,7 @@
                                                                     <div class="post-media panel overflow-hidden w-40px lg:w-64px rounded">
                                                                         <div class="featured-video bg-gray-700 ratio ratio-3x4">
                                                                             <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-04.webm')}}" type="video/webm">
+                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-04.mp4')}}" type="video/webm">
                                                                                 Your browser does not support the video tag.
                                                                             </video>
                                                                         </div>
@@ -3892,7 +3894,7 @@
                                                                     <div class="post-media panel overflow-hidden w-40px lg:w-64px rounded">
                                                                         <div class="featured-video bg-gray-700 ratio ratio-3x4">
                                                                             <video class="video-cover video-lazyload min-h-100px" preload="none" loop playsinline>
-                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-05.webm')}}" type="video/webm">
+                                                                                <source src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-two/videos/vid-05.mp4')}}" type="video/webm">
                                                                                 Your browser does not support the video tag.
                                                                             </video>
                                                                         </div>
@@ -4215,7 +4217,7 @@
                                                                 <div class="col-auto">
                                                                     <div class="post-media panel overflow-hidden max-w-150px min-w-100px lg:min-w-250px">
                                                                         <div class="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/img-11.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
+                                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="{{ url('../assets/user/images/common/img-fallback.png')}}" data-src="{{ url('../assets/user/images/demo-seven/posts/post-2.jpg')}}" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy">
                                                                         </div>
                                                                         <a href="blog-details.html" class="position-cover"></a>
                                                                     </div>
