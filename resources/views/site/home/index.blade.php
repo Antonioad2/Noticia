@@ -4518,7 +4518,7 @@ O Futuro da Vida Sustentável: Promovendo Estilos de Vida Ecologicamente Amigáv
                                         </div>
                                         <div class="widget popular-widget vstack gap-2 p-2 border">
                                             <div class="widget-title text-center">
-                                                <h5 class="fs-7 ft-tertiary text-uppercase m-0">Popular now</h5>
+                                                <h5 class="fs-7 ft-tertiary text-uppercase m-0">Agora</h5>
                                             </div>
                                             <div class="widget-content">
                                                 <div class="row child-cols-12 gx-4 gy-3 sep-x" data-uc-grid>
@@ -4530,7 +4530,7 @@ O Futuro da Vida Sustentável: Promovendo Estilos de Vida Ecologicamente Amigáv
                                                                         <span class="h3 lg:h2 ft-tertiary fst-italic text-center text-primary m-0 min-w-24px">1</span>
                                                                         <div class="post-header panel vstack justify-between gap-1">
                                                                             <h3 class="post-title h6 m-0">
-                                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
+                                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Construçao de novas casa</a>
                                                                             </h3>
                                                                             <div class="post-meta panel hstack justify-between fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                                 <div class="meta">
@@ -4566,7 +4566,7 @@ O Futuro da Vida Sustentável: Promovendo Estilos de Vida Ecologicamente Amigáv
                                                                         <span class="h3 lg:h2 ft-tertiary fst-italic text-center text-primary m-0 min-w-24px">2</span>
                                                                         <div class="post-header panel vstack justify-between gap-1">
                                                                             <h3 class="post-title h6 m-0">
-                                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Havemos de voltar disse DR...</a>
                                                                             </h3>
                                                                             <div class="post-meta panel hstack justify-between fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                                 <div class="meta">
@@ -4602,7 +4602,7 @@ O Futuro da Vida Sustentável: Promovendo Estilos de Vida Ecologicamente Amigáv
                                                                         <span class="h3 lg:h2 ft-tertiary fst-italic text-center text-primary m-0 min-w-24px">3</span>
                                                                         <div class="post-header panel vstack justify-between gap-1">
                                                                             <h3 class="post-title h6 m-0">
-                                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Smart Homes, Smarter Living: Exploring IoT and AI</a>
+                                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Angola vai pela revolução...</a>
                                                                             </h3>
                                                                             <div class="post-meta panel hstack justify-between fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                                 <div class="meta">
@@ -4638,7 +4638,7 @@ O Futuro da Vida Sustentável: Promovendo Estilos de Vida Ecologicamente Amigáv
                                                                         <span class="h3 lg:h2 ft-tertiary fst-italic text-center text-primary m-0 min-w-24px">4</span>
                                                                         <div class="post-header panel vstack justify-between gap-1">
                                                                             <h3 class="post-title h6 m-0">
-                                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">How Businesses Are Adapting to E-Commerce and AI Integration</a>
+                                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Como investir e onde investir em angola</a>
                                                                             </h3>
                                                                             <div class="post-meta panel hstack justify-between fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                                 <div class="meta">
@@ -4671,7 +4671,7 @@ O Futuro da Vida Sustentável: Promovendo Estilos de Vida Ecologicamente Amigáv
                                         </div>
                                         <div class="widget social-widget vstack gap-2 text-center p-2 border">
                                             <div class="widgt-title">
-                                                <h4 class="fs-7 ft-tertiary text-uppercase m-0">Follow @News5</h4>
+                                                <h4 class="fs-7 ft-tertiary text-uppercase m-0">Segue @factosveristas</h4>
                                             </div>
                                             <div class="widgt-content">
                                                 <form class="vstack gap-1">
