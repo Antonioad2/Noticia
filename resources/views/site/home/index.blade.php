@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>News5</title>
+        <title>FACTOS VERITAS</title>
     <meta name="description" content="News5 um template de site de blog multipropósito, limpo, moderno e pixel-perfeito em HTML5.">
     <meta name="keywords" content="saas, template saas, template de site, software, startup, produto digital, html5, landing, marketing, bootstrap, uikit3, agência, ai, agência digital, soluções de TI, nodejs">
         <link rel="canonical" href="{{ url('https://unistudio.co/html/News5')}}">
@@ -499,8 +499,8 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="#">INICIO<span data-uc-navbar-parent-icon></span></a>
-                                       <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
+                                        <a href="#">INICIO</a>
+                                      <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
                                            <div class="row col-match g-2">
                                                {{--  <div class="w-1/5">
                                                     <div class="uc-navbar-switcher-nav border-end">
@@ -1433,7 +1433,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="#">Agenda do Governo<span data-uc-navbar-parent-icon></span></a>
+                                        <a href="#">Agenda do Governo</span></a>
                                         <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
                                             <div class="row child-cols col-match g-2">
                                                 <div>
@@ -1585,7 +1585,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <a href="#">Política e Número<span data-uc-navbar-parent-icon></span></a>
+                                        <a href="#">Política e Número</span></a>
                                         <div class="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar" data-uc-drop=" offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;">
                                             <div class="row child-cols col-match g-2">
                                                 <div>
