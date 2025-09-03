@@ -5,10 +5,11 @@
                         <div class="uc-footer-bottom panel vstack gap-4 justify-center lg:fs-5">
                             <nav class="footer-nav">
                                 <ul class="nav-x gap-2 lg:gap-4 justify-center text-center text-uppercase fw-medium">
-                                    <li><a class="hover:text-gray-900 dark:hover:text-white duration-150" href="blog-category.html">Politics</a></li>
-                                    <li><a class="hover:text-gray-900 dark:hover:text-white duration-150" href="blog-category.html">Opinions</a></li>
-                                    <li><a class="hover:text-gray-900 dark:hover:text-white duration-150" href="blog-category.html">World</a></li>
-                                    <li><a class="hover:text-gray-900 dark:hover:text-white duration-150" href="blog-category.html">Media</a></li>
+                                    <li><a class="hover:text-gray-900 dark:hover:text-white duration-150" href="blog-category.html">Política</a></li>
+                                    <li><a class="hover:text-gray-900 dark:hover:text-white duration-150" href="blog-category.html">Opiniões</a></li>
+                                    <li><a class="hover:text-gray-900 dark:hover:text-white duration-150" href="blog-category.html">Mundo</a></li>
+                                    <li><a class="hover:text-grayapplied
+                                    <li><a class="hover:text-gray-900 dark:hover:text-white duration-150" href="blog-category.html">Mídia</a></li>
                                 </ul>
                             </nav>
                             <div class="footer-social hstack justify-center gap-2 lg:gap-3">
@@ -33,12 +34,12 @@
                                 <div class="d-inline-block">
                                     <a href="#" class="hstack gap-1 text-none fw-medium">
                                         <i class="icon icon-1 unicon-earth-filled"></i>
-                                        <span>English</span>
+                                        <span>Português</span>
                                         <span data-uc-drop-parent-icon=""></span>
                                     </a>
                                     <div class="p-2 bg-white dark:bg-gray-800 shadow-xs w-150px" data-uc-drop="mode: click; boundary: !.uc-footer-bottom; animation: uc-animation-slide-top-small; duration: 150;">
                                         <ul class="nav-y gap-1 fw-medium items-end">
-                                            <li><a href="#en">English</a></li>
+                                            <li><a href="#en">Português</a></li>
                                             <li><a href="#ar">العربية</a></li>
                                             <li><a href="#ch">中文</a></li>
                                         </ul>
@@ -46,14 +47,14 @@
                                 </div>
                             </div>
                             <div class="footer-copyright vstack sm:hstack justify-center items-center gap-1 lg:gap-2">
-                                <p>News5 © <script>
+                                <p>FACTPS VERITAS© <script>
                                 document.write(
                                     new Date().getFullYear()
                                 )
-                            </script>, All rights reserved.</p>
+                            </script>, Todos os direitos reservados.</p>
                                 <ul class="nav-x gap-2 fw-medium">
-                                    <li><a class="uc-link text-underline hover:text-gray-900 dark:hover:text-white duration-150" href="page-privacy.html">Privacy notice</a></li>
-                                    <li><a class="uc-link text-underline hover:text-gray-900 dark:hover:text-white duration-150" href="page-terms.html">Terms of condition</a></li>
+                                    <li><a class="uc-link text-underline hover:text-gray-900 dark:hover:text-white duration-150" href="page-privacy.html">Aviso de privacidade</a></li>
+                                    <li><a class="uc-link text-underline hover:text-gray-900 dark:hover:text-white duration-150" href="page-terms.html">Termos de condição</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -62,4 +63,4 @@
             </div>
         </footer>
 
-        <!-- Footer end -->
+        <!-- Fim do rodapé -->
