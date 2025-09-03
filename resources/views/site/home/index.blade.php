@@ -393,40 +393,39 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide text-white">
                                         <div class="type-post post panel">
-                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">The Rise of AI-Powered Personal Assistants: How They Manage</a>
+                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">As 7 maravilhas de Angola</a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide text-white">
                                         <div class="type-post post panel">
-                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">Tech Innovations Reshaping the Retail Landscape: AI Payments</a>
+                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">A instrução para evitar acidentes</a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide text-white">
                                         <div class="type-post post panel">
-                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">Balancing Work and Wellness: Tech Solutions for Healthy</a>
+                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">Benguela provincia mais vistada  nos ultimo 5 anos</a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide text-white">
                                         <div class="type-post post panel">
-                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">The Importance of Sleep: Tips for Better Rest and Recovery</a>
+                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">Falta de agua no camama</a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide text-white">
                                         <div class="type-post post panel">
-                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">Angola avante na construção apos 50 anos</a>
                                         </div>
                                     </div>
                                     <div class="swiper-slide text-white">
                                         <div class="type-post post panel">
-                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">Business Agility the Digital Age: Leveraging AI and Automation</a>
+                                            <a href="blog-details.html" class="fs-7 fw-normal text-none text-inherit">Exercicio para ganhar musculação</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="uc-center-navbar panel hstack z-2 min-h-48px d-none lg:d-flex" data-uc-navbar=" animation: uc-animation-slide-top-small; duration: 150;">
+                </div>                <div class="uc-center-navbar panel hstack z-2 min-h-48px d-none lg:d-flex" data-uc-navbar=" animation: uc-animation-slide-top-small; duration: 150;">
                     <div class="container max-w-xl">
                         <div class="navbar-container hstack border-bottom">
                             <div class="uc-navbar-center gap-2 lg:gap-3 flex-1">
@@ -437,48 +436,48 @@
                                             <div class="row child-cols col-match g-2">
                                                 <div class="col-2">
                                                     <ul class="uc-nav uc-navbar-dropdown-nav">
-                                                        <li><a href="blog-category.html">Trending</a></li>
-                                                        <li><a href="blog-category.html">Politics</a></li>
-                                                        <li><a href="blog-category.html">Opinions</a></li>
-                                                        <li><a href="blog-category.html">World</a></li>
-                                                        <li><a href="blog-category.html">Media</a></li>
+                                                        <li><a href="blog-category.html">Tendências</a></li>
+                                                        <li><a href="blog-category.html">Política</a></li>
+                                                        <li><a href="blog-category.html">Opiniões</a></li>
+                                                        <li><a href="blog-category.html">Mundo</a></li>
+                                                        <li><a href="blog-category.html">Mídia</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-2">
                                                     <ul class="uc-nav uc-navbar-dropdown-nav">
-                                                        <li><a href="blog-category.html">Tech</a></li>
-                                                        <li><a href="blog-category.html">Business</a></li>
-                                                        <li><a href="blog-category.html">Fashion</a></li>
-                                                        <li><a href="blog-category.html">Arts</a></li>
-                                                        <li><a href="blog-category.html">Food</a></li>
+                                                        <li><a href="blog-category.html">Tecnologia</a></li>
+                                                        <li><a href="blog-category.html">Negócios</a></li>
+                                                        <li><a href="blog-category.html">Moda</a></li>
+                                                        <li><a href="blog-category.html">Artes</a></li>
+                                                        <li><a href="blog-category.html">Comida</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-2">
                                                     <ul class="uc-nav uc-navbar-dropdown-nav">
-                                                        <li><a href="blog-category.html">Economy</a></li>
-                                                        <li><a href="blog-category.html">Finance</a></li>
-                                                        <li><a href="blog-category.html">Education</a></li>
-                                                        <li><a href="blog-category.html">Health</a></li>
-                                                        <li><a href="blog-category.html">National</a></li>
+                                                        <li><a href="blog-category.html">Economia</a></li>
+                                                        <li><a href="blog-category.html">Finanças</a></li>
+                                                        <li><a href="blog-category.html">Educação</a></li>
+                                                        <li><a href="blog-category.html">Saúde</a></li>
+                                                        <li><a href="blog-category.html">Nacional</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-2">
                                                     <ul class="uc-nav uc-navbar-dropdown-nav">
                                                         <li><a href="blog-category.html">E-Books</a></li>
-                                                        <li><a href="blog-category.html">Press</a></li>
+                                                        <li><a href="blog-category.html">Imprensa</a></li>
                                                         <li><a href="blog-category.html">Podcasts</a></li>
-                                                        <li><a href="blog-category.html">Entertainments</a></li>
-                                                        <li><a href="blog-category.html">Weather</a></li>
+                                                        <li><a href="blog-category.html">Entretenimento</a></li>
+                                                        <li><a href="blog-category.html">Clima</a></li>
                                                     </ul>
                                                 </div>
                                                 <div>
                                                     <div class="uc-navbar-newsletter panel vstack">
-                                                        <h6 class="fs-6 ft-tertiary fw-medium">Newsletter</h6>
+                                                        <h6 class="fs-6 ft-tertiary fw-medium">Boletim Informativo</h6>
                                                         <form class="hstack gap-1 bg-gray-300 bg-opacity-10">
-                                                            <input type="email" class="form-control-plaintext form-control-xs fs-6 dark:text-white" placeholder="Your email address..">
-                                                            <button type="submit" class="btn btn-sm btn-primary fs-6 rounded-0">Subscribe</button>
+                                                            <input type="email" class="form-control-plaintext form-control-xs fs-6 dark:text-white" placeholder="Seu endereço de e-mail..">
+                                                            <button type="submit" class="btn btn-sm btn-primary fs-6 rounded-0">Inscrever-se</button>
                                                         </form>
-                                                        <p class="fs-7 mt-1">Do not worry, we don't spam!</p>
+                                                        <p class="fs-7 mt-1">Não se preocupe, nós não enviamos spam!</p>
                                                         <ul class="nav-x gap-2 mt-3">
                                                             <li>
                                                                 <a href="#fb"><i class="icon icon-2 unicon-logo-facebook"></i></a>
@@ -909,7 +908,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Tech Innovations Reshaping the Retail Landscape: AI Payments</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">A instrução para evitar acidentes</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -938,7 +937,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Art of Baking: From Classic Bread to Artisan Pastries</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Kuduro a ser feito fora do pa</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -998,7 +997,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">AI and Marketing: Unlocking Customer Insights</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Melhor que ha do Uige</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1027,7 +1026,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Solo Travel: Some Tips and Destinations for the Adventurous Explorer</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Preparação do ano letivo 20...</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1056,7 +1055,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Gaming in the Age of AI: Strategies for Startups</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">A divicao das provincias em Angola</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1085,7 +1084,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Cinema angolano estreia em Hol...</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1133,7 +1132,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Importance of Sleep: Tips for Better Rest and Recovery</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Angola avante na construção apos 50 anos</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1162,7 +1161,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Angola avante na construção apos 50 anos</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1191,7 +1190,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Eco-Tourism: Traveling Responsibly and Sustainably</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Economia a mais forte de Africa</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1220,7 +1219,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Tech Tools for your Time Management: Enhancing Productivity</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">De volta as quedas de calandula</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1249,7 +1248,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Potential of Immersive Technologies help your Business Grow</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Cabinda- centro da riqueza angolana</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1294,7 +1293,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Balancing Work and Wellness: Tech Solutions for Healthy</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Benguela provincia mais vistada  nos ultimo 5 anos</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1323,7 +1322,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Business Agility the Digital Age: Leveraging AI and Automation</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Exercicio para ganhar musculação</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1352,7 +1351,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">A Guide to The Rise of Gourmet Street Food: Trends and Top Picks</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">O melhor de angola encontra se em Benguela</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1381,7 +1380,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Top Independent Contractors to Invest in Best of Startups</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Qualidade de tempo</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1410,7 +1409,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Angola avante na construção apos 50 anos</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1446,7 +1445,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Rise of AI-Powered Personal Assistants: How They Manage</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">As 7 maravilhas de Angola</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1475,7 +1474,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Tech Innovations Reshaping the Retail Landscape: AI Payments</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">A instrução para evitar acidentes</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1504,7 +1503,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Art of Baking: From Classic Bread to Artisan Pastries</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Kuduro a ser feito fora do pa</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1598,7 +1597,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">AI and Marketing: Unlocking Customer Insights</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Melhor que ha do Uige</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1627,7 +1626,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Solo Travel: Some Tips and Destinations for the Adventurous Explorer</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Preparação do ano letivo 20...</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1656,7 +1655,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Gaming in the Age of AI: Strategies for Startups</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">A divicao das provincias em Angola</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1685,7 +1684,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Cinema angolano estreia em Hol...</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1714,7 +1713,7 @@
                                                         </div>
                                                         <div class="post-header panel vstack gap-narrow">
                                                             <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Smart Homes, Smarter Living: Exploring IoT and AI</a>
+                                                                <a class="text-none hover:text-primary duration-150" href="blog-details.html">Bengo risco na barragem do kwanza</a>
                                                             </h3>
                                                             <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -1764,7 +1763,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Angola avante na construção apos 50 anos</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1793,7 +1792,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Smart Homes, Smarter Living: Exploring IoT and AI</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Bengo risco na barragem do kwanza</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1822,7 +1821,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">How Businesses Are Adapting to E-Commerce and AI Integration</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Luanda- Feira interncaional do desenvolvimento</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1851,7 +1850,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Technology: Wearables, AR, and AI in the Apparel Industry</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Angola ganha Mali</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1882,7 +1881,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Importance of Sleep: Tips for Better Rest and Recovery</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Falta de agua no camama</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1911,7 +1910,7 @@
                                                                     </div>
                                                                     <div class="post-header panel vstack gap-narrow">
                                                                         <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Future of Sustainable Living: Driving Eco-Friendly Lifestyles</a>
+                                                                            <a class="text-none hover:text-primary duration-150" href="blog-details.html">Angola avante na construção apos 50 anos</a>
                                                                         </h3>
                                                                         <div class="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                             <div>
@@ -1973,59 +1972,59 @@
                                                     <div class="row child-cols g-4">
                                                         <div>
                                                             <ul class="uc-nav uc-navbar-dropdown-nav">
-                                                                <li class="uc-nav-header fs-6 ft-tertiary fw-medium mb-1">Main Pages</li>
-                                                                <li><a href="../main/index.html">Main</a></li>
-                                                                <li><a href="../demo-two/index.html">Classic News</a></li>
-                                                                <li><a href="../demo-three/index.html">Tech</a></li>
-                                                                <li><a href="../demo-four/index.html">Classic Blog</a></li>
-                                                                <li><a href="../demo-five/index.html">Gaming</a></li>
-                                                                <li><a href="../demo-six/index.html">Sports</a></li>
-                                                                <li><a href="../demo-seven/index.html">Newspaper</a></li>
-                                                                <li><a href="../demo-eight/index.html">Magazine</a></li>
-                                                                <li><a href="../demo-nine/index.html">Travel</a></li>
-                                                                <li><a href="../demo-ten/index.html">Food</a></li>
+                                                                <li class="uc-nav-header fs-6 ft-tertiary fw-medium mb-1">Páginas Principais</li>
+                                                                <li><a href="../main/index.html">Principal</a></li>
+                                                                <li><a href="../demo-two/index.html">Notícias Clássicas</a></li>
+                                                                <li><a href="../demo-three/index.html">Tecnologia</a></li>
+                                                                <li><a href="../demo-four/index.html">Blog Clássico</a></li>
+                                                                <li><a href="../demo-five/index.html">Jogos</a></li>
+                                                                <li><a href="../demo-six/index.html">Esportes</a></li>
+                                                                <li><a href="../demo-seven/index.html">Jornal</a></li>
+                                                                <li><a href="../demo-eight/index.html">Revista</a></li>
+                                                                <li><a href="../demo-nine/index.html">Viagem</a></li>
+                                                                <li><a href="../demo-ten/index.html">Comida</a></li>
                                                             </ul>
                                                         </div>
                                                         <div>
                                                             <ul class="uc-nav uc-navbar-dropdown-nav">
-                                                                <li class="uc-nav-header fs-6 ft-tertiary fw-medium mb-1">CMS Pages</li>
-                                                                <li><a href="blog.html">Modern</a></li>
-                                                                <li><a href="blog-classic.html">Classic</a></li>
-                                                                <li><a href="blog-2cols.html">Grid 2 cols</a></li>
-                                                                <li><a href="blog-3cols.html">Grid 3 cols</a></li>
-                                                                <li><a href="blog-4cols.html">Grid 4 cols</a></li>
-                                                                <li><a href="blog-category.html">Category</a></li>
-                                                                <li><a href="blog-author.html">Author</a></li>
-                                                                <li><a href="blog-details.html">Blog single</a></li>
-                                                                <li><a href="blog-details-2.html">Blog single v2</a></li>
-                                                                <li><a href="blog-details-3.html">Blog single v3</a></li>
+                                                                <li class="uc-nav-header fs-6 ft-tertiary fw-medium mb-1">Páginas CMS</li>
+                                                                <li><a href="blog.html">Moderno</a></li>
+                                                                <li><a href="blog-classic.html">Clássico</a></li>
+                                                                <li><a href="blog-2cols.html">Grade 2 colunas</a></li>
+                                                                <li><a href="blog-3cols.html">Grade 3 colunas</a></li>
+                                                                <li><a href="blog-4cols.html">Grade 4 colunas</a></li>
+                                                                <li><a href="blog-category.html">Categoria</a></li>
+                                                                <li><a href="blog-author.html">Autor</a></li>
+                                                                <li><a href="blog-details.html">Post único</a></li>
+                                                                <li><a href="blog-details-2.html">Post único v2</a></li>
+                                                                <li><a href="blog-details-3.html">Post único v3</a></li>
                                                             </ul>
                                                         </div>
                                                         <div>
                                                             <ul class="uc-nav uc-navbar-dropdown-nav">
-                                                                <li class="uc-nav-header fs-6 ft-tertiary fw-medium mb-1">Shop Pages</li>
-                                                                <li><a href="shop.html">Grid 4 cols</a></li>
-                                                                <li><a href="shop-3.html">Grid 3 cols</a></li>
-                                                                <li><a href="shop-2.html">Grid 2 cols</a></li>
-                                                                <li><a href="shop-product-detail.html">Product detail</a></li>
-                                                                <li><a href="shop-product-detail-2.html">Product detail v2</a></li>
-                                                                <li><a href="shop-cart.html">Cart</a></li>
-                                                                <li><a href="shop-cart-2.html">Cart v2</a></li>
-                                                                <li><a href="shop-checkout.html">Checkout</a></li>
-                                                                <li><a href="shop-checkout-2.html">Checkout v2</a></li>
-                                                                <li><a href="shop-order.html">Order confirmation</a></li>
+                                                                <li class="uc-nav-header fs-6 ft-tertiary fw-medium mb-1">Páginas de Loja</li>
+                                                                <li><a href="shop.html">Grade 4 colunas</a></li>
+                                                                <li><a href="shop-3.html">Grade 3 colunas</a></li>
+                                                                <li><a href="shop-2.html">Grade 2 colunas</a></li>
+                                                                <li><a href="shop-product-detail.html">Detalhe do produto</a></li>
+                                                                <li><a href="shop-product-detail-2.html">Detalhe do produto v2</a></li>
+                                                                <li><a href="shop-cart.html">Carrinho</a></li>
+                                                                <li><a href="shop-cart-2.html">Carrinho v2</a></li>
+                                                                <li><a href="shop-checkout.html">Finalização de compra</a></li>
+                                                                <li><a href="shop-checkout-2.html">Finalização de compra v2</a></li>
+                                                                <li><a href="shop-order.html">Confirmação de pedido</a></li>
                                                             </ul>
                                                         </div>
                                                         <div>
                                                             <ul class="uc-nav uc-navbar-dropdown-nav">
-                                                                <li class="uc-nav-header fs-6 ft-tertiary fw-medium mb-1">Other pages</li>
-                                                                <li><a href="sign-in.html">Sign in</a></li>
-                                                                <li><a href="sign-up.html">Sign up</a></li>
-                                                                <li><a href="reset-password.html">Reset password</a></li>
+                                                                <li class="uc-nav-header fs-6 ft-tertiary fw-medium mb-1">Outras páginas</li>
+                                                                <li><a href="sign-in.html">Entrar</a></li>
+                                                                <li><a href="sign-up.html">Cadastrar-se</a></li>
+                                                                <li><a href="reset-password.html">Redefinir senha</a></li>
                                                                 <li><a href="404.html">404</a></li>
-                                                                <li><a href="coming-soon.html">Coming Soon</a></li>
-                                                                <li><a href="page-terms.html">Terms of service</a></li>
-                                                                <li><a href="page-privacy.html">Privacy policy</a></li>
+                                                                <li><a href="coming-soon.html">Em breve</a></li>
+                                                                <li><a href="page-terms.html">Termos de serviço</a></li>
+                                                                <li><a href="page-privacy.html">Política de privacidade</a></li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -2033,7 +2032,7 @@
                                                 <div class="col-3">
                                                     <div class="panel w-100 overflow-hidden">
                                                         <div class="ratio ratio-3x4 overflow-hidden">
-                                                            <img src="{{ url('../assets/user/images/common/menu-banner.jpg')}}" alt="Let's build anything with News5!">
+                                                            <img src="{{ url('../assets/user/images/common/menu-banner.jpg')}}" alt="Vamos construir qualquer coisa com o News5!">
                                                             <a class="position-cover" href="{{ url('https://themeforest.net/user/reacthemes/portfolio')}}" target="_blank"></a>
                                                         </div>
                                                     </div>
@@ -2766,7 +2765,7 @@
                                                             <div>
                                                                 <div class="post-header panel vstack justify-between gap-1">
                                                                     <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">Gaming in the Age of AI: Strategies for Startups</a>
+                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">A divicao das provincias em Angola</a>
                                                                     </h3>
                                                                     <div class="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                         <span>9mo</span>
@@ -2790,7 +2789,7 @@
                                                             <div>
                                                                 <div class="post-header panel vstack justify-between gap-1">
                                                                     <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">Virtual Reality and Mental Health: Exploring the Therapeutic</a>
+                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">Cinema angolano estreia em Hol...</a>
                                                                     </h3>
                                                                     <div class="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                         <span>2mo</span>
@@ -2814,7 +2813,7 @@
                                                             <div>
                                                                 <div class="post-header panel vstack justify-between gap-1">
                                                                     <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">Smart Homes, Smarter Living: Exploring IoT and AI</a>
+                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">Bengo risco na barragem do kwanza</a>
                                                                     </h3>
                                                                     <div class="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                         <span>23d</span>
@@ -3332,7 +3331,7 @@
                                                             <div>
                                                                 <div class="post-header panel vstack justify-between gap-1">
                                                                     <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Art of Baking: From Classic Bread to Artisan Pastries</a>
+                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">Kuduro a ser feito fora do pa</a>
                                                                     </h3>
                                                                     <div class="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                         <span>9d</span>
@@ -3626,7 +3625,7 @@
                                                             <div>
                                                                 <div class="post-header panel vstack justify-between gap-1">
                                                                     <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">The Art of Baking: From Classic Bread to Artisan Pastries</a>
+                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">Kuduro a ser feito fora do pa</a>
                                                                     </h3>
                                                                     <div class="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                         <span>9d</span>
@@ -3650,7 +3649,7 @@
                                                             <div>
                                                                 <div class="post-header panel vstack justify-between gap-1">
                                                                     <h3 class="post-title h6 m-0 text-truncate-2">
-                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">AI and Marketing: Unlocking Customer Insights</a>
+                                                                        <a class="text-none hover:text-primary duration-150" href="blog-details.html">Melhor que ha do Uige</a>
                                                                     </h3>
                                                                     <div class="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                         <span>15d</span>
